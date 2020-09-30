@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+p {
+    font-family: 'Epilogue', sans-serif;
+}
+
+ul {
+    font-family: 'Epilogue', sans-serif;
+}
+
+input {
+    font-family: 'Epilogue', sans-serif;
+}
+
+div {
+    font-family: 'Epilogue', sans-serif;
+}
+
+button {
+    background-color: whitesmoke;
+    font-family: 'Epilogue', sans-serif;
+}
