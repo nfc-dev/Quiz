@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
 
 h1 {
     font-family: 'Ubuntu', sans-serif;
@@ -19,22 +18,22 @@ body {
 }
 
 p {
-    font-family: 'Epilogue', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 ul {
-    font-family: 'Epilogue', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 input {
-    font-family: 'Epilogue', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 div {
-    font-family: 'Epilogue', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 button {
-    background-color: whitesmoke;
-    font-family: 'Epilogue', sans-serif;
+    background-color: bisque;
+    font-family: 'Ubuntu', sans-serif;
 }
